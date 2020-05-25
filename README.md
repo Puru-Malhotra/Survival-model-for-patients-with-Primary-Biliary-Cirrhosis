@@ -11,3 +11,7 @@ We will be using the following two methods for our models:
 ~ Cox Proportional Hazards
 
 ~Random Survival Forests
+
+
+
+**This assignment is a part of AI for medical Prognosis certification on Coursera by depplearning.ai and is present as week 4 assignment
